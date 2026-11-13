@@ -1,0 +1,626 @@
+ID_Cliente,Nombre_Cliente,Tipo_Poliza,Prima_Pagada_Txt,Costo_Siniestro,Fecha_Registro
+CLI-8270,  jorge mendoza,Vida,"$3,644",1986.0,2025-02-20
+CLI-1860,sofia castro,Vida,"$1,858",2970.0,2025-02-20
+CLI-6390,  carlos perez ,Hogar,"$4,628",1951.0,2025/03/10
+CLI-6191,CARMEN ORTIZ ,Automóvil,"$1,808",3535.0,2025/03/10
+CLI-6734,  carlos perez ,Hogar,"$1,835",4060.0,2025-02-20
+CLI-7265,ANA GOMEZ,Salud,"$3,540",2367.0,2025/03/10
+CLI-1466,sofia castro,Automóvil,$925,,15/01/2025
+CLI-5426,  jorge mendoza,Hogar,"$4,668",2011.0,
+CLI-6578,  carlos perez ,Hogar,"$4,049",1846.0,
+CLI-9322,pedro rodriguez ,Vida,"$4,723",940.0,15/01/2025
+CLI-2685,luis soto,,"$5,203",1645.0,
+CLI-1769,ANA GOMEZ,Hogar,"$3,593",3011.0,2025-01-15
+CLI-7949,  jorge mendoza,Hogar,"$2,833",,15/01/2025
+CLI-3433,  carlos perez ,Salud,"$1,814",1310.0,2025/03/10
+CLI-6311,CARMEN ORTIZ ,Hogar,"$5,412",776.0,15/01/2025
+CLI-6051,pedro rodriguez ,Automóvil,"$1,998",1760.0,2025-02-20
+CLI-7420,pedro rodriguez ,Hogar,"$3,274",682.0,2025/03/10
+CLI-2184,  carlos perez ,Automóvil,"$4,849",2467.0,2025-02-20
+CLI-5555,luis soto,Automóvil,"$4,519",4759.0,2025/03/10
+CLI-4385,  carlos perez ,Hogar,"$4,752",4590.0,
+CLI-7396,ANA GOMEZ,Hogar,,1410.0,15/01/2025
+CLI-9666,  carlos perez ,,"$5,709",2254.0,2025-01-15
+CLI-3558,pedro rodriguez ,Hogar,"$3,872",4610.0,2025/03/10
+CLI-8849,  jorge mendoza,Vida,"$3,924",3625.0,2025/03/10
+CLI-3047,  carlos perez ,Vida,"$3,208",3602.0,2025-02-20
+CLI-3747,luis soto,Automóvil,"$4,091",1770.0,
+CLI-1189,sofia castro,Vida,"$1,503",3622.0,2025-02-20
+CLI-3734,  jorge mendoza,Automóvil,,164.0,2025-02-20
+CLI-4005,CARMEN ORTIZ ,,"$5,583",2358.0,
+CLI-5658,MARIA TORRES ,Automóvil,"$4,628",-85.0,2025-01-15
+CLI-2899,  carlos perez ,Hogar,"$1,288",,2025-02-20
+CLI-8734,luis soto,Automóvil,"$4,481",3735.0,2025-02-20
+CLI-2267,  jorge mendoza,,"$5,389",2290.0,2025/03/10
+CLI-2528,luis soto,Vida,"$4,914",,
+CLI-4556,CARMEN ORTIZ ,Vida,"$1,800",1524.0,15/01/2025
+CLI-4890,pedro rodriguez ,Automóvil,"$2,188",2567.0,2025-01-15
+CLI-9838,luis soto,Salud,"$2,167",3917.0,2025-01-15
+CLI-6393,  jorge mendoza,Automóvil,"$1,254",4578.0,
+CLI-9792,luis soto,Salud,,2753.0,2025/03/10
+CLI-9433,luis soto,Automóvil,"$3,947",4021.0,2025/03/10
+CLI-8513,luis soto,Automóvil,"$2,990",1027.0,
+CLI-3612,ANA GOMEZ,Automóvil,"$3,675",3535.0,2025/03/10
+CLI-8041,ANA GOMEZ,Hogar,"$2,240",1109.0,2025-01-15
+CLI-7235,pedro rodriguez ,Vida,"$4,368",3034.0,2025-01-15
+CLI-6486,  carlos perez ,Automóvil,"$4,138",2111.0,15/01/2025
+CLI-8099,luis soto,Salud,"$3,689",3359.0,
+CLI-1775,CARMEN ORTIZ ,Hogar,"$4,648",2494.0,2025-02-20
+CLI-9226,  carlos perez ,Vida,"$4,665",,2025-02-20
+CLI-4152,CARMEN ORTIZ ,Hogar,"$3,301",1372.0,15/01/2025
+CLI-2585,  carlos perez ,Hogar,"$1,977",4036.0,15/01/2025
+CLI-4943,pedro rodriguez ,Vida,"$5,199",2035.0,2025/03/10
+CLI-8555,luis soto,Automóvil,"$4,171",2998.0,15/01/2025
+CLI-4073,luis soto,Automóvil,$842,4442.0,15/01/2025
+CLI-2021,MARIA TORRES ,Salud,"$3,345",2975.0,2025-02-20
+CLI-4843,CARMEN ORTIZ ,,"$1,804",4697.0,2025/03/10
+CLI-8989,  carlos perez ,Hogar,"$1,814",,15/01/2025
+CLI-7873,  carlos perez ,Automóvil,"$3,988",213.0,15/01/2025
+CLI-6675,sofia castro,Vida,"$1,514",,2025/03/10
+CLI-1161,sofia castro,Hogar,"$5,219",3455.0,
+CLI-5297,ANA GOMEZ,Automóvil,"$5,365",-13.0,2025/03/10
+CLI-1995,MARIA TORRES ,Automóvil,"$1,763",1815.0,2025-02-20
+CLI-8629,  jorge mendoza,Salud,"$4,435",,
+CLI-2016,sofia castro,Vida,"$2,492",157.0,2025-01-15
+CLI-8869,  jorge mendoza,Automóvil,$905,2222.0,2025/03/10
+CLI-7439,ANA GOMEZ,Automóvil,"$2,481",4345.0,2025-02-20
+CLI-8892,ANA GOMEZ,Automóvil,"$3,436",1958.0,
+CLI-7863,ANA GOMEZ,Vida,"$4,216",2142.0,2025/03/10
+CLI-8916,CARMEN ORTIZ ,Automóvil,"$2,086",1038.0,15/01/2025
+CLI-9529,CARMEN ORTIZ ,Automóvil,"$5,958",3765.0,2025/03/10
+CLI-1878,pedro rodriguez ,Salud,"$4,454",3501.0,2025-01-15
+CLI-5887,pedro rodriguez ,Automóvil,"$1,244",1388.0,2025/03/10
+CLI-5859,ANA GOMEZ,Vida,$835,236.0,
+CLI-7331,MARIA TORRES ,Automóvil,"$4,757",,
+CLI-9571,  carlos perez ,Automóvil,"$2,208",3658.0,2025/03/10
+CLI-9684,CARMEN ORTIZ ,Automóvil,"$2,508",2184.0,
+CLI-8208,MARIA TORRES ,Salud,"$3,738",1389.0,15/01/2025
+CLI-6276,luis soto,Salud,,,2025/03/10
+CLI-3062,CARMEN ORTIZ ,Salud,"$2,100",811.0,15/01/2025
+CLI-1064,CARMEN ORTIZ ,Hogar,"$4,776",4941.0,15/01/2025
+CLI-9006,pedro rodriguez ,Vida,$809,2107.0,2025-02-20
+CLI-3568,  carlos perez ,Automóvil,"$2,460",835.0,2025/03/10
+CLI-6463,  carlos perez ,Automóvil,"$5,615",3845.0,
+CLI-3027,sofia castro,Salud,"$5,754",4249.0,15/01/2025
+CLI-3695,  jorge mendoza,Automóvil,"$4,945",4886.0,2025-02-20
+CLI-6258,  jorge mendoza,Automóvil,"$4,483",1684.0,2025/03/10
+CLI-6618,  jorge mendoza,Automóvil,"$4,073",,2025/03/10
+CLI-7736,  jorge mendoza,Automóvil,"$5,810",2141.0,2025-01-15
+CLI-1391,luis soto,Automóvil,"$3,840",617.0,2025-01-15
+CLI-6892,luis soto,Vida,"$5,476",2237.0,15/01/2025
+CLI-4561,CARMEN ORTIZ ,Hogar,"$1,282",688.0,2025-01-15
+CLI-7184,ANA GOMEZ,Salud,"$5,568",,15/01/2025
+CLI-4099,pedro rodriguez ,Salud,"$1,461",4528.0,
+CLI-7278,pedro rodriguez ,Hogar,,4032.0,15/01/2025
+CLI-9392,  jorge mendoza,Automóvil,"$1,787",4323.0,2025-01-15
+CLI-4104,CARMEN ORTIZ ,Hogar,"$2,346",618.0,
+CLI-8215,sofia castro,Vida,"$3,437",2024.0,2025-01-15
+CLI-3454,MARIA TORRES ,Automóvil,"$1,240",3292.0,15/01/2025
+CLI-9996,ANA GOMEZ,Vida,"$1,569",270.0,2025-02-20
+CLI-3731,CARMEN ORTIZ ,Hogar,"$5,158",4824.0,2025/03/10
+CLI-9154,ANA GOMEZ,Vida,"$4,706",3600.0,2025-01-15
+CLI-6056,ANA GOMEZ,Hogar,"$4,808",4801.0,15/01/2025
+CLI-9110,ANA GOMEZ,Automóvil,"$5,894",3596.0,
+CLI-4840,CARMEN ORTIZ ,,"$3,149",728.0,2025-01-15
+CLI-2028,  jorge mendoza,Salud,"$2,041",322.0,2025-01-15
+CLI-8385,pedro rodriguez ,Automóvil,"$1,990",4326.0,2025/03/10
+CLI-1502,pedro rodriguez ,Salud,"$4,931",4428.0,15/01/2025
+CLI-7910,  jorge mendoza,Hogar,"$5,248",1116.0,2025-02-20
+CLI-7938,ANA GOMEZ,Salud,$872,,
+CLI-5488,MARIA TORRES ,Salud,"$2,714",2387.0,15/01/2025
+CLI-1206,  carlos perez ,Hogar,"$3,846",1178.0,
+CLI-6134,CARMEN ORTIZ ,Automóvil,"$4,513",26.0,2025-01-15
+CLI-6977,  carlos perez ,Automóvil,"$3,275",691.0,2025/03/10
+CLI-8721,sofia castro,Vida,"$3,623",4932.0,2025/03/10
+CLI-8035,  jorge mendoza,Vida,"$2,385",196.0,2025-02-20
+CLI-2484,MARIA TORRES ,Automóvil,"$3,228",4544.0,2025/03/10
+CLI-8858,CARMEN ORTIZ ,Automóvil,"$1,141",3693.0,2025-01-15
+CLI-1863,  jorge mendoza,Salud,"$3,574",1816.0,2025-02-20
+CLI-3790,ANA GOMEZ,,"$3,461",1678.0,15/01/2025
+CLI-8408,pedro rodriguez ,Vida,"$3,201",-39.0,2025/03/10
+CLI-9755,  carlos perez ,Automóvil,"$5,011",575.0,2025-02-20
+CLI-6116,luis soto,Automóvil,"$4,683",4947.0,2025-01-15
+CLI-7019,luis soto,Automóvil,"$2,668",739.0,
+CLI-2757,MARIA TORRES ,,"$4,174",4717.0,
+CLI-8574,ANA GOMEZ,Automóvil,"$1,007",155.0,2025-01-15
+CLI-7374,sofia castro,Vida,"$1,432",,2025-01-15
+CLI-7892,  carlos perez ,Automóvil,"$3,883",,
+CLI-2678,ANA GOMEZ,Vida,"$2,731",1896.0,2025-02-20
+CLI-4242,  carlos perez ,Vida,"$3,362",1473.0,
+CLI-5636,MARIA TORRES ,Salud,"$1,036",1900.0,2025-01-15
+CLI-2059,MARIA TORRES ,Automóvil,"$5,525",3396.0,2025/03/10
+CLI-7668,sofia castro,Automóvil,"$4,743",1615.0,15/01/2025
+CLI-4157,luis soto,Automóvil,"$3,168",4293.0,2025/03/10
+CLI-6915,ANA GOMEZ,,$948,186.0,2025/03/10
+CLI-3693,CARMEN ORTIZ ,Salud,"$5,351",1864.0,2025-01-15
+CLI-4627,luis soto,Vida,"$1,812",4779.0,
+CLI-6450,ANA GOMEZ,Vida,"$2,323",,2025-02-20
+CLI-2663,luis soto,Vida,"$4,525",539.0,2025/03/10
+CLI-6592,CARMEN ORTIZ ,Automóvil,"$2,401",,
+CLI-8392,pedro rodriguez ,,"$3,617",3704.0,2025-02-20
+CLI-2306,pedro rodriguez ,Hogar,"$3,296",3027.0,2025/03/10
+CLI-7776,sofia castro,Hogar,"$2,525",2312.0,2025-02-20
+CLI-6864,pedro rodriguez ,Vida,"$4,067",2545.0,
+CLI-8526,pedro rodriguez ,Automóvil,"$1,061",3564.0,15/01/2025
+CLI-9901,  jorge mendoza,Automóvil,"$2,990",,
+CLI-6575,  carlos perez ,Salud,"$1,043",2592.0,2025-01-15
+CLI-6530,  jorge mendoza,Automóvil,"$1,360",3262.0,2025-02-20
+CLI-5413,  jorge mendoza,Vida,"$1,393",,15/01/2025
+CLI-4748,sofia castro,Automóvil,"$4,029",-168.0,2025-02-20
+CLI-1663,  jorge mendoza,Hogar,$933,2366.0,2025-02-20
+CLI-2998,pedro rodriguez ,Automóvil,"$5,843",3509.0,2025/03/10
+CLI-8994,CARMEN ORTIZ ,Hogar,"$5,294",519.0,2025-01-15
+CLI-2495,sofia castro,Salud,"$5,025",4379.0,2025-02-20
+CLI-4304,sofia castro,Automóvil,"$5,161",4202.0,
+CLI-4763,MARIA TORRES ,Vida,"$1,592",,
+CLI-6232,sofia castro,Hogar,"$5,059",4120.0,2025/03/10
+CLI-2853,MARIA TORRES ,Vida,"$1,933",3375.0,2025-01-15
+CLI-7585,sofia castro,,"$1,037",3085.0,2025-01-15
+CLI-2291,  carlos perez ,Salud,"$3,746",4511.0,
+CLI-4581,pedro rodriguez ,Automóvil,"$1,848",,15/01/2025
+CLI-8554,sofia castro,Automóvil,"$3,329",2457.0,2025/03/10
+CLI-8280,pedro rodriguez ,Automóvil,"$1,763",3076.0,2025/03/10
+CLI-2636,pedro rodriguez ,Vida,"$5,023",1041.0,
+CLI-4696,luis soto,Automóvil,"$4,524",192.0,
+CLI-1698,sofia castro,Hogar,"$4,403",1647.0,15/01/2025
+CLI-5737,ANA GOMEZ,Vida,"$3,294",4329.0,15/01/2025
+CLI-1854,luis soto,Hogar,"$2,684",3671.0,2025-01-15
+CLI-9164,ANA GOMEZ,Salud,,,2025/03/10
+CLI-6855,pedro rodriguez ,Automóvil,"$3,510",3070.0,2025/03/10
+CLI-8392,pedro rodriguez ,Automóvil,"$2,753",-175.0,
+CLI-7528,luis soto,Salud,"$5,537",260.0,2025-01-15
+CLI-6249,luis soto,Hogar,"$1,489",3231.0,2025/03/10
+CLI-6172,ANA GOMEZ,Vida,"$5,975",3283.0,2025-01-15
+CLI-2707,MARIA TORRES ,Hogar,"$5,878",872.0,2025-01-15
+CLI-6791,ANA GOMEZ,Automóvil,"$5,044",2973.0,
+CLI-6535,luis soto,Salud,"$5,085",1523.0,2025-01-15
+CLI-5931,CARMEN ORTIZ ,Salud,"$1,199",-42.0,15/01/2025
+CLI-4510,luis soto,Vida,"$2,438",3113.0,15/01/2025
+CLI-1202,CARMEN ORTIZ ,Automóvil,"$2,948",1852.0,2025-02-20
+CLI-5218,  carlos perez ,Vida,"$1,619",2095.0,
+CLI-9958,luis soto,Hogar,"$1,219",2793.0,2025-02-20
+CLI-5389,  carlos perez ,Automóvil,"$4,102",3609.0,15/01/2025
+CLI-3327,MARIA TORRES ,,"$2,308",3444.0,2025-02-20
+CLI-9004,ANA GOMEZ,Automóvil,"$1,567",2300.0,
+CLI-3931,CARMEN ORTIZ ,,"$2,939",3445.0,
+CLI-8777,ANA GOMEZ,Hogar,"$2,564",2149.0,2025-01-15
+CLI-1197,  carlos perez ,Automóvil,"$4,516",1557.0,2025/03/10
+CLI-8125,CARMEN ORTIZ ,Vida,,916.0,2025-01-15
+CLI-2930,ANA GOMEZ,Salud,"$3,093",292.0,
+CLI-7287,luis soto,Salud,"$3,508",,15/01/2025
+CLI-9800,pedro rodriguez ,Salud,"$1,700",3623.0,15/01/2025
+CLI-5282,  carlos perez ,Vida,"$2,809",1346.0,2025-01-15
+CLI-3511,ANA GOMEZ,Vida,"$3,185",3363.0,
+CLI-1659,  carlos perez ,Salud,"$1,471",4475.0,15/01/2025
+CLI-3811,  jorge mendoza,Automóvil,"$3,842",2543.0,
+CLI-8098,  carlos perez ,Hogar,"$3,242",2293.0,15/01/2025
+CLI-7546,CARMEN ORTIZ ,Automóvil,"$3,155",156.0,
+CLI-2986,  jorge mendoza,,"$5,524",669.0,2025-02-20
+CLI-9338,sofia castro,,"$1,345",1083.0,
+CLI-3911,CARMEN ORTIZ ,Automóvil,"$4,635",596.0,
+CLI-2734,pedro rodriguez ,Salud,"$4,604",3225.0,2025-01-15
+CLI-2843,  jorge mendoza,,"$4,293",44.0,2025-02-20
+CLI-9680,sofia castro,Automóvil,"$3,244",729.0,2025/03/10
+CLI-3976,luis soto,Vida,$816,3012.0,2025-01-15
+CLI-2959,  carlos perez ,,"$1,224",2325.0,2025/03/10
+CLI-6759,ANA GOMEZ,Automóvil,"$1,371",4390.0,15/01/2025
+CLI-7694,MARIA TORRES ,Vida,"$1,920",4958.0,2025/03/10
+CLI-3385,  carlos perez ,Automóvil,"$4,697",3467.0,
+CLI-5736,sofia castro,,"$3,079",-115.0,2025/03/10
+CLI-2802,  carlos perez ,,"$1,514",2268.0,2025-01-15
+CLI-9155,pedro rodriguez ,,"$1,575",,2025-01-15
+CLI-9120,luis soto,Hogar,"$3,047",3383.0,2025/03/10
+CLI-7616,MARIA TORRES ,Salud,"$4,726",3126.0,2025-01-15
+CLI-6534,  jorge mendoza,Salud,"$2,948",2017.0,2025-01-15
+CLI-5061,  jorge mendoza,Hogar,,2169.0,2025/03/10
+CLI-1262,  jorge mendoza,Salud,,743.0,2025-02-20
+CLI-7287,sofia castro,Automóvil,"$4,256",,2025-02-20
+CLI-9815,CARMEN ORTIZ ,Vida,"$1,207",2736.0,15/01/2025
+CLI-3049,CARMEN ORTIZ ,Automóvil,"$3,888",3747.0,2025-01-15
+CLI-6423,ANA GOMEZ,Automóvil,"$5,127",3905.0,2025/03/10
+CLI-5548,MARIA TORRES ,Automóvil,"$1,165",1261.0,2025-01-15
+CLI-4108,  jorge mendoza,Vida,"$5,331",466.0,
+CLI-8158,CARMEN ORTIZ ,Hogar,"$3,346",1976.0,2025-01-15
+CLI-8400,sofia castro,Salud,"$4,362",,2025-01-15
+CLI-4170,ANA GOMEZ,Automóvil,"$1,572",3624.0,2025-02-20
+CLI-3255,luis soto,Hogar,"$4,223",2251.0,2025/03/10
+CLI-2154,ANA GOMEZ,Vida,"$2,373",3496.0,2025-01-15
+CLI-5499,CARMEN ORTIZ ,Salud,"$4,091",3729.0,2025-02-20
+CLI-7295,pedro rodriguez ,Hogar,"$4,519",4169.0,15/01/2025
+CLI-7197,sofia castro,Vida,"$5,816",4756.0,2025-02-20
+CLI-2648,pedro rodriguez ,Salud,"$3,793",2962.0,2025-02-20
+CLI-6539,  jorge mendoza,Vida,,2808.0,2025-02-20
+CLI-5199,pedro rodriguez ,Automóvil,"$2,413",-47.0,2025-01-15
+CLI-9445,  jorge mendoza,Automóvil,"$5,112",3499.0,2025-01-15
+CLI-3557,  jorge mendoza,Salud,"$5,085",,15/01/2025
+CLI-6592,CARMEN ORTIZ ,Automóvil,"$2,996",864.0,
+CLI-1098,pedro rodriguez ,Salud,"$1,569",,
+CLI-3200,  jorge mendoza,Vida,"$2,516",,
+CLI-3961,MARIA TORRES ,,"$4,783",2201.0,15/01/2025
+CLI-5973,luis soto,Salud,"$1,322",1760.0,
+CLI-5433,ANA GOMEZ,,,4604.0,
+CLI-3869,ANA GOMEZ,Hogar,"$3,030",2671.0,2025-02-20
+CLI-1956,CARMEN ORTIZ ,Salud,"$5,383",2435.0,2025-01-15
+CLI-9352,pedro rodriguez ,Hogar,"$4,497",2250.0,2025-01-15
+CLI-6699,pedro rodriguez ,Hogar,"$3,261",1838.0,2025-02-20
+CLI-7944,  jorge mendoza,Vida,"$4,043",4447.0,2025-02-20
+CLI-5493,sofia castro,Salud,"$1,485",4357.0,2025-02-20
+CLI-5911,  carlos perez ,,,673.0,2025-01-15
+CLI-4987,  jorge mendoza,Salud,"$2,367",2475.0,
+CLI-7015,luis soto,Hogar,$838,3775.0,2025-02-20
+CLI-2218,MARIA TORRES ,Hogar,"$2,056",3018.0,15/01/2025
+CLI-5496,ANA GOMEZ,Salud,"$2,996",2771.0,2025-02-20
+CLI-5735,  jorge mendoza,Automóvil,"$3,508",4370.0,2025/03/10
+CLI-5555,  carlos perez ,Automóvil,"$1,101",,2025-02-20
+CLI-9050,  carlos perez ,Hogar,"$1,446",2268.0,2025-01-15
+CLI-4446,  jorge mendoza,Automóvil,"$2,559",1190.0,2025-02-20
+CLI-2045,CARMEN ORTIZ ,Automóvil,"$1,397",3935.0,2025/03/10
+CLI-7893,ANA GOMEZ,Automóvil,"$2,168",,15/01/2025
+CLI-2693,CARMEN ORTIZ ,Automóvil,"$4,668",3407.0,
+CLI-4436,MARIA TORRES ,Automóvil,"$5,665",2875.0,2025-02-20
+CLI-9754,  carlos perez ,,"$5,358",2280.0,2025/03/10
+CLI-6895,  carlos perez ,Hogar,"$4,478",78.0,2025/03/10
+CLI-4354,luis soto,Hogar,"$4,983",4758.0,15/01/2025
+CLI-1225,MARIA TORRES ,Vida,"$3,125",4576.0,2025-01-15
+CLI-5893,  carlos perez ,Automóvil,"$2,524",,2025-02-20
+CLI-8022,MARIA TORRES ,,"$1,314",1180.0,2025/03/10
+CLI-6600,ANA GOMEZ,Salud,"$2,866",2527.0,15/01/2025
+CLI-8996,pedro rodriguez ,Automóvil,"$5,949",2956.0,
+CLI-8683,  carlos perez ,Hogar,"$2,104",183.0,2025/03/10
+CLI-5642,luis soto,Salud,"$1,161",,15/01/2025
+CLI-8679,ANA GOMEZ,,"$2,084",3859.0,2025-01-15
+CLI-9208,  jorge mendoza,Hogar,"$2,655",3882.0,2025-01-15
+CLI-8339,MARIA TORRES ,Vida,"$4,362",2598.0,2025/03/10
+CLI-3205,  jorge mendoza,Automóvil,"$2,228",3214.0,2025/03/10
+CLI-2069,CARMEN ORTIZ ,,"$1,722",3413.0,2025-02-20
+CLI-4444,ANA GOMEZ,Automóvil,"$2,959",935.0,15/01/2025
+CLI-2060,  jorge mendoza,,"$3,347",5.0,2025/03/10
+CLI-3327,sofia castro,Vida,"$3,081",4391.0,2025-02-20
+CLI-4420,sofia castro,Vida,"$3,413",3611.0,2025-02-20
+CLI-1301,  carlos perez ,Vida,"$1,837",2351.0,2025/03/10
+CLI-1606,MARIA TORRES ,Automóvil,"$3,434",109.0,2025-01-15
+CLI-4170,pedro rodriguez ,Automóvil,"$5,910",71.0,15/01/2025
+CLI-1699,ANA GOMEZ,Automóvil,"$1,924",,15/01/2025
+CLI-6088,  carlos perez ,Automóvil,"$2,204",3073.0,2025-01-15
+CLI-1190,luis soto,Salud,"$2,729",,2025/03/10
+CLI-1980,CARMEN ORTIZ ,Hogar,"$1,026",4149.0,15/01/2025
+CLI-3975,MARIA TORRES ,Automóvil,"$5,717",3522.0,2025/03/10
+CLI-7102,ANA GOMEZ,,"$3,252",2573.0,2025/03/10
+CLI-2184,sofia castro,Salud,,3707.0,2025-02-20
+CLI-4327,ANA GOMEZ,,"$5,083",-48.0,2025-01-15
+CLI-4394,pedro rodriguez ,,"$3,120",2716.0,2025/03/10
+CLI-9319,sofia castro,Automóvil,"$3,363",1552.0,
+CLI-2816,pedro rodriguez ,Hogar,"$4,386",904.0,2025-01-15
+CLI-6854,luis soto,Salud,"$5,231",3999.0,15/01/2025
+CLI-7709,CARMEN ORTIZ ,Vida,"$3,747",3294.0,2025-02-20
+CLI-1569,luis soto,Automóvil,"$3,383",2872.0,15/01/2025
+CLI-6442,  carlos perez ,Salud,"$1,393",-34.0,15/01/2025
+CLI-2895,  carlos perez ,Automóvil,"$4,059",3464.0,2025-01-15
+CLI-3733,luis soto,Automóvil,"$4,688",,15/01/2025
+CLI-4863,CARMEN ORTIZ ,Vida,"$5,301",,2025/03/10
+CLI-8455,luis soto,Vida,"$5,995",4477.0,15/01/2025
+CLI-5014,CARMEN ORTIZ ,Vida,"$5,893",1131.0,2025-02-20
+CLI-2686,CARMEN ORTIZ ,Automóvil,"$1,667",3208.0,2025-02-20
+CLI-4009,  jorge mendoza,Salud,"$1,231",899.0,
+CLI-8806,sofia castro,Automóvil,"$5,078",1956.0,2025-02-20
+CLI-1154,MARIA TORRES ,Automóvil,"$3,328",3960.0,15/01/2025
+CLI-2409,CARMEN ORTIZ ,Salud,"$2,451",1297.0,2025-02-20
+CLI-1784,pedro rodriguez ,,"$1,275",1367.0,2025-01-15
+CLI-9096,CARMEN ORTIZ ,Salud,"$5,866",168.0,2025-02-20
+CLI-8560,CARMEN ORTIZ ,Salud,"$2,636",,2025/03/10
+CLI-8343,CARMEN ORTIZ ,Vida,"$5,093",2335.0,2025-01-15
+CLI-8206,  jorge mendoza,Vida,"$5,966",1624.0,
+CLI-6596,sofia castro,Automóvil,"$2,533",4596.0,2025/03/10
+CLI-6801,  jorge mendoza,Hogar,"$2,971",,15/01/2025
+CLI-3806,  carlos perez ,Hogar,"$5,497",2772.0,15/01/2025
+CLI-1537,  jorge mendoza,Automóvil,"$1,299",792.0,15/01/2025
+CLI-6986,pedro rodriguez ,Salud,"$2,897",2186.0,2025/03/10
+CLI-2841,pedro rodriguez ,Hogar,"$4,496",1276.0,2025/03/10
+CLI-9716,  jorge mendoza,Automóvil,"$3,557",189.0,2025/03/10
+CLI-7971,sofia castro,Automóvil,"$2,700",1655.0,2025-01-15
+CLI-6625,luis soto,Vida,"$4,786",458.0,2025-01-15
+CLI-3950,MARIA TORRES ,Automóvil,"$5,817",4786.0,15/01/2025
+CLI-8992,sofia castro,Salud,"$2,803",3531.0,2025-02-20
+CLI-5780,  jorge mendoza,Hogar,"$1,503",2275.0,15/01/2025
+CLI-3368,CARMEN ORTIZ ,Hogar,"$2,425",2893.0,
+CLI-7655,ANA GOMEZ,Vida,"$5,905",3868.0,2025-01-15
+CLI-9173,MARIA TORRES ,Salud,"$3,639",,2025/03/10
+CLI-5495,MARIA TORRES ,Hogar,"$2,661",174.0,2025-01-15
+CLI-7002,pedro rodriguez ,Vida,"$1,485",2862.0,2025/03/10
+CLI-7614,MARIA TORRES ,Vida,"$5,083",4395.0,
+CLI-6919,  jorge mendoza,Automóvil,"$2,419",-88.0,
+CLI-1853,CARMEN ORTIZ ,Salud,"$5,443",,2025-01-15
+CLI-5146,CARMEN ORTIZ ,Salud,,1724.0,2025/03/10
+CLI-4769,  carlos perez ,Vida,"$5,513",1224.0,
+CLI-1574,CARMEN ORTIZ ,Salud,"$2,043",316.0,15/01/2025
+CLI-2148,sofia castro,Salud,"$2,774",687.0,15/01/2025
+CLI-7293,CARMEN ORTIZ ,Salud,"$1,431",-151.0,2025/03/10
+CLI-7457,pedro rodriguez ,Salud,"$4,271",-182.0,2025-01-15
+CLI-8509,CARMEN ORTIZ ,Vida,"$2,441",1273.0,
+CLI-5777,  carlos perez ,Vida,"$1,381",251.0,2025-01-15
+CLI-4854,ANA GOMEZ,Vida,"$2,519",3565.0,15/01/2025
+CLI-3491,  jorge mendoza,Salud,,4110.0,
+CLI-4124,pedro rodriguez ,Automóvil,"$1,674",3274.0,2025-01-15
+CLI-6691,sofia castro,Salud,"$1,489",4655.0,2025-02-20
+CLI-4051,ANA GOMEZ,Salud,"$3,941",2561.0,2025/03/10
+CLI-1004,pedro rodriguez ,Automóvil,"$1,471",1215.0,2025/03/10
+CLI-6222,luis soto,Salud,"$1,971",,2025-02-20
+CLI-6315,MARIA TORRES ,Automóvil,"$1,743",2169.0,15/01/2025
+CLI-5869,luis soto,Hogar,"$2,249",1141.0,
+CLI-1876,CARMEN ORTIZ ,Salud,"$4,759",3345.0,2025/03/10
+CLI-8027,ANA GOMEZ,Automóvil,"$5,060",3602.0,2025-02-20
+CLI-5142,CARMEN ORTIZ ,Salud,"$4,452",3454.0,2025-02-20
+CLI-7966,MARIA TORRES ,Salud,"$2,553",4673.0,15/01/2025
+CLI-8079,pedro rodriguez ,Vida,"$3,152",7.0,15/01/2025
+CLI-8987,MARIA TORRES ,Automóvil,"$5,748",2433.0,2025-01-15
+CLI-7799,  carlos perez ,Automóvil,"$1,224",-47.0,2025/03/10
+CLI-5465,MARIA TORRES ,Vida,,3166.0,2025-01-15
+CLI-1635,  carlos perez ,,"$1,694",1318.0,2025-02-20
+CLI-2693,MARIA TORRES ,Vida,"$1,397",2400.0,
+CLI-5752,  jorge mendoza,Automóvil,"$5,488",,
+CLI-9311,  carlos perez ,Vida,"$1,372",4491.0,15/01/2025
+CLI-1830,ANA GOMEZ,Vida,"$2,890",,
+CLI-6177,CARMEN ORTIZ ,Salud,"$4,469",2649.0,
+CLI-9932,sofia castro,Automóvil,"$2,433",1542.0,
+CLI-9308,CARMEN ORTIZ ,Salud,"$5,093",3968.0,2025-02-20
+CLI-6949,luis soto,Vida,"$5,748",4455.0,
+CLI-3838,CARMEN ORTIZ ,,"$5,976",3995.0,
+CLI-2150,pedro rodriguez ,Hogar,$897,2105.0,
+CLI-8560,  jorge mendoza,Vida,"$5,330",888.0,2025-01-15
+CLI-2931,MARIA TORRES ,,"$3,957",4716.0,2025-02-20
+CLI-2664,luis soto,Automóvil,"$5,466",4557.0,15/01/2025
+CLI-2081,pedro rodriguez ,,"$2,527",2764.0,2025-01-15
+CLI-1512,pedro rodriguez ,Vida,"$3,408",1613.0,2025/03/10
+CLI-8805,  carlos perez ,Automóvil,"$3,124",2261.0,2025-02-20
+CLI-6237,CARMEN ORTIZ ,Hogar,"$1,891",83.0,2025-02-20
+CLI-1559,ANA GOMEZ,Salud,"$3,591",4196.0,2025/03/10
+CLI-4672,sofia castro,Automóvil,"$2,549",616.0,2025/03/10
+CLI-8404,ANA GOMEZ,Vida,"$1,581",-118.0,2025/03/10
+CLI-4343,luis soto,Hogar,"$3,848",3291.0,15/01/2025
+CLI-5070,  jorge mendoza,Vida,"$4,667",1893.0,
+CLI-1580,ANA GOMEZ,Automóvil,"$5,342",-25.0,2025-02-20
+CLI-8004,MARIA TORRES ,Salud,"$4,770",4737.0,
+CLI-9130,ANA GOMEZ,,"$2,377",,
+CLI-4147,luis soto,,"$5,669",3290.0,2025/03/10
+CLI-5249,sofia castro,Salud,"$2,614",1164.0,15/01/2025
+CLI-2679,ANA GOMEZ,Automóvil,"$5,202",4262.0,2025-01-15
+CLI-4506,MARIA TORRES ,Salud,"$4,457",3476.0,15/01/2025
+CLI-8253,  carlos perez ,Automóvil,"$3,355",2762.0,
+CLI-3744,  jorge mendoza,Automóvil,"$3,011",3656.0,15/01/2025
+CLI-6188,luis soto,Hogar,"$5,800",864.0,2025/03/10
+CLI-3141,  carlos perez ,Hogar,"$3,085",2059.0,2025-01-15
+CLI-7617,  carlos perez ,Salud,"$5,363",1886.0,2025/03/10
+CLI-3479,  carlos perez ,Vida,"$3,622",-50.0,2025-01-15
+CLI-7484,pedro rodriguez ,Hogar,"$3,724",,
+CLI-8421,  jorge mendoza,Automóvil,"$2,698",4919.0,2025-01-15
+CLI-5452,sofia castro,,"$3,776",3964.0,2025-01-15
+CLI-6881,CARMEN ORTIZ ,Hogar,"$5,910",,2025-01-15
+CLI-7665,  jorge mendoza,Hogar,"$1,412",2050.0,15/01/2025
+CLI-3849,pedro rodriguez ,Automóvil,"$1,487",2810.0,15/01/2025
+CLI-8390,CARMEN ORTIZ ,Salud,"$3,107",984.0,
+CLI-7905,  jorge mendoza,Vida,"$2,581",4233.0,2025-01-15
+CLI-3489,  carlos perez ,Automóvil,"$3,496",1326.0,2025-02-20
+CLI-5611,luis soto,Automóvil,"$4,758",1373.0,
+CLI-3839,CARMEN ORTIZ ,Vida,"$1,374",2166.0,2025-01-15
+CLI-9527,MARIA TORRES ,Vida,"$5,908",3557.0,2025-01-15
+CLI-6878,MARIA TORRES ,Automóvil,"$5,164",669.0,15/01/2025
+CLI-7303,ANA GOMEZ,,"$1,723",1711.0,
+CLI-1851,CARMEN ORTIZ ,Automóvil,"$2,394",490.0,2025-01-15
+CLI-2687,luis soto,Hogar,"$2,360",2356.0,2025-01-15
+CLI-7833,sofia castro,,"$3,043",94.0,
+CLI-3427,pedro rodriguez ,Hogar,"$5,825",2643.0,2025-02-20
+CLI-5000,  carlos perez ,Vida,"$3,869",2396.0,
+CLI-6052,ANA GOMEZ,Hogar,"$4,347",4463.0,
+CLI-3738,MARIA TORRES ,Automóvil,"$2,195",2617.0,2025-02-20
+CLI-6732,pedro rodriguez ,,"$1,445",4258.0,
+CLI-6387,pedro rodriguez ,Hogar,"$3,790",541.0,2025-01-15
+CLI-9002,  carlos perez ,Salud,"$3,304",2267.0,
+CLI-6536,sofia castro,Automóvil,"$5,877",1158.0,2025-02-20
+CLI-4913,sofia castro,Automóvil,"$5,371",,2025/03/10
+CLI-2066,CARMEN ORTIZ ,Automóvil,"$4,879",2359.0,
+CLI-8723,MARIA TORRES ,Vida,"$4,631",4151.0,15/01/2025
+CLI-5380,sofia castro,Hogar,"$1,780",4770.0,2025-01-15
+CLI-5107,luis soto,Salud,"$3,393",3078.0,2025-01-15
+CLI-6726,sofia castro,Hogar,"$5,838",2874.0,15/01/2025
+CLI-4373,pedro rodriguez ,,"$1,898",-80.0,15/01/2025
+CLI-9945,  carlos perez ,Automóvil,"$4,047",4903.0,
+CLI-3082,luis soto,Salud,"$2,474",1832.0,15/01/2025
+CLI-9967,CARMEN ORTIZ ,Salud,"$1,730",1868.0,2025/03/10
+CLI-7748,MARIA TORRES ,Salud,,2468.0,2025-02-20
+CLI-1417,CARMEN ORTIZ ,Salud,"$1,889",602.0,15/01/2025
+CLI-9306,pedro rodriguez ,Salud,"$3,095",-5.0,15/01/2025
+CLI-9808,luis soto,Vida,"$2,758",2130.0,2025/03/10
+CLI-4974,luis soto,Automóvil,"$5,019",3406.0,2025-01-15
+CLI-4267,luis soto,Automóvil,"$4,630",-140.0,2025-01-15
+CLI-1825,pedro rodriguez ,,"$3,038",3727.0,
+CLI-8668,pedro rodriguez ,Vida,"$1,241",2391.0,2025/03/10
+CLI-6745,CARMEN ORTIZ ,Salud,"$5,428",1371.0,2025-02-20
+CLI-1412,ANA GOMEZ,Hogar,,1000.0,2025-02-20
+CLI-8543,CARMEN ORTIZ ,Automóvil,"$4,173",2654.0,2025/03/10
+CLI-8587,MARIA TORRES ,Automóvil,"$1,259",1036.0,2025-02-20
+CLI-1728,  carlos perez ,Vida,"$1,192",829.0,2025-01-15
+CLI-8164,luis soto,Hogar,"$5,740",2394.0,2025-02-20
+CLI-9867,ANA GOMEZ,Automóvil,"$1,938",2272.0,2025-02-20
+CLI-6988,  carlos perez ,Hogar,"$3,254",-114.0,2025/03/10
+CLI-3504,ANA GOMEZ,Automóvil,"$2,177",2742.0,2025/03/10
+CLI-3967,sofia castro,Vida,"$3,397",3110.0,2025-02-20
+CLI-3786,sofia castro,Automóvil,"$5,396",2500.0,15/01/2025
+CLI-2122,  jorge mendoza,Salud,"$4,418",4390.0,2025/03/10
+CLI-5079,sofia castro,Hogar,"$4,717",4964.0,
+CLI-2571,CARMEN ORTIZ ,Hogar,"$2,704",3487.0,
+CLI-6073,sofia castro,Automóvil,,284.0,2025-01-15
+CLI-6104,pedro rodriguez ,Automóvil,"$5,049",2889.0,2025-02-20
+CLI-3143,luis soto,Hogar,"$5,557",4653.0,15/01/2025
+CLI-7806,CARMEN ORTIZ ,Hogar,"$4,978",,2025-01-15
+CLI-8357,  carlos perez ,Vida,"$3,746",,2025-02-20
+CLI-4440,  jorge mendoza,Automóvil,"$3,131",298.0,2025/03/10
+CLI-4766,  jorge mendoza,Vida,,1473.0,
+CLI-6644,  jorge mendoza,Salud,"$3,610",-86.0,15/01/2025
+CLI-3914,  carlos perez ,Salud,"$5,528",1536.0,
+CLI-5968,  carlos perez ,Automóvil,"$3,790",2053.0,2025/03/10
+CLI-6917,  carlos perez ,Hogar,"$1,943",3430.0,2025-02-20
+CLI-9787,  carlos perez ,Automóvil,"$3,523",-54.0,2025/03/10
+CLI-1728,  jorge mendoza,Automóvil,"$1,085",3253.0,2025/03/10
+CLI-2365,  jorge mendoza,,,2210.0,
+CLI-5492,ANA GOMEZ,Automóvil,"$5,716",3160.0,15/01/2025
+CLI-1698,CARMEN ORTIZ ,Hogar,"$3,181",-182.0,2025/03/10
+CLI-8186,luis soto,Vida,$867,4897.0,
+CLI-1395,sofia castro,Salud,"$4,808",745.0,15/01/2025
+CLI-8400,sofia castro,Vida,"$5,590",4036.0,2025-02-20
+CLI-9082,pedro rodriguez ,Automóvil,"$1,885",2777.0,2025-02-20
+CLI-5171,  jorge mendoza,Hogar,"$2,493",,2025-01-15
+CLI-5360,pedro rodriguez ,Vida,"$1,578",2407.0,
+CLI-3502,CARMEN ORTIZ ,Automóvil,"$2,385",4727.0,15/01/2025
+CLI-1717,CARMEN ORTIZ ,Hogar,"$1,460",4190.0,2025/03/10
+CLI-3782,pedro rodriguez ,Automóvil,"$2,099",3966.0,2025-02-20
+CLI-5946,  jorge mendoza,Automóvil,"$2,844",4200.0,15/01/2025
+CLI-6486,pedro rodriguez ,Hogar,"$1,858",616.0,
+CLI-9335,sofia castro,Automóvil,"$1,527",-8.0,2025-01-15
+CLI-5980,ANA GOMEZ,Vida,"$5,927",,2025-02-20
+CLI-8266,sofia castro,Vida,"$2,247",50.0,15/01/2025
+CLI-5491,MARIA TORRES ,Salud,"$4,459",3500.0,15/01/2025
+CLI-8192,  jorge mendoza,Automóvil,"$1,326",967.0,15/01/2025
+CLI-6588,  jorge mendoza,Automóvil,"$2,873",,
+CLI-8651,luis soto,Automóvil,"$1,205",2479.0,
+CLI-4636,  carlos perez ,Vida,"$2,373",304.0,
+CLI-2167,MARIA TORRES ,Salud,"$4,540",2272.0,2025/03/10
+CLI-2062,CARMEN ORTIZ ,Automóvil,"$2,646",2794.0,15/01/2025
+CLI-3156,  jorge mendoza,,"$1,571",517.0,2025-02-20
+CLI-8860,pedro rodriguez ,Automóvil,"$1,378",458.0,
+CLI-6161,MARIA TORRES ,Vida,$993,4324.0,
+CLI-6305,luis soto,Salud,"$3,194",4034.0,15/01/2025
+CLI-7541,CARMEN ORTIZ ,Salud,"$2,592",,
+CLI-5729,  carlos perez ,Salud,"$4,805",1055.0,2025/03/10
+CLI-8330,  carlos perez ,Salud,"$4,536",,2025/03/10
+CLI-6334,luis soto,Hogar,,-7.0,
+CLI-9924,luis soto,Salud,,,15/01/2025
+CLI-5330,pedro rodriguez ,Automóvil,"$5,178",2563.0,15/01/2025
+CLI-9010,  jorge mendoza,Salud,"$4,251",2139.0,15/01/2025
+CLI-7801,  carlos perez ,Vida,"$5,336",2672.0,2025-01-15
+CLI-5846,CARMEN ORTIZ ,Salud,"$3,600",3977.0,
+CLI-7731,MARIA TORRES ,Hogar,$941,2404.0,15/01/2025
+CLI-8241,CARMEN ORTIZ ,Vida,"$5,596",331.0,2025/03/10
+CLI-1953,ANA GOMEZ,Vida,,434.0,2025-02-20
+CLI-3539,ANA GOMEZ,Salud,,,2025-02-20
+CLI-8056,luis soto,Automóvil,"$5,450",-198.0,15/01/2025
+CLI-2542,pedro rodriguez ,Automóvil,"$5,497",3935.0,2025-02-20
+CLI-6293,ANA GOMEZ,Automóvil,"$4,628",,2025-02-20
+CLI-2191,  carlos perez ,Automóvil,"$5,213",2690.0,2025-01-15
+CLI-7313,CARMEN ORTIZ ,Salud,"$3,229",2466.0,2025/03/10
+CLI-7938,CARMEN ORTIZ ,Automóvil,"$5,712",3106.0,2025/03/10
+CLI-3681,luis soto,,"$1,655",1079.0,2025-01-15
+CLI-2540,  jorge mendoza,Hogar,"$4,442",470.0,2025-01-15
+CLI-7172,  jorge mendoza,Automóvil,"$3,912",3375.0,2025-02-20
+CLI-6541,MARIA TORRES ,Salud,,1755.0,
+CLI-2365,luis soto,Vida,"$2,317",49.0,2025-02-20
+CLI-9691,sofia castro,Hogar,"$2,156",3239.0,2025-01-15
+CLI-9702,MARIA TORRES ,Vida,"$4,428",2654.0,2025/03/10
+CLI-8494,sofia castro,Salud,"$4,491",3371.0,2025-02-20
+CLI-5312,  jorge mendoza,Automóvil,"$5,479",-157.0,
+CLI-2324,luis soto,,"$1,932",4478.0,2025-02-20
+CLI-4141,sofia castro,,"$4,111",2742.0,15/01/2025
+CLI-8419,luis soto,Vida,"$1,787",2772.0,2025-02-20
+CLI-4486,luis soto,Automóvil,"$5,415",3271.0,2025-01-15
+CLI-2810,  jorge mendoza,Vida,$973,2746.0,2025/03/10
+CLI-7588,MARIA TORRES ,Automóvil,"$3,852",4753.0,2025/03/10
+CLI-3923,MARIA TORRES ,Automóvil,"$4,560",3356.0,2025-01-15
+CLI-6301,luis soto,Automóvil,"$4,833",3445.0,15/01/2025
+CLI-5186,ANA GOMEZ,Hogar,"$4,544",1505.0,2025-01-15
+CLI-9905,pedro rodriguez ,Salud,"$1,393",-147.0,2025-02-20
+CLI-6977,  jorge mendoza,Salud,"$2,574",415.0,2025-01-15
+CLI-5268,pedro rodriguez ,Salud,"$4,608",754.0,2025-01-15
+CLI-5748,pedro rodriguez ,Hogar,"$3,502",2581.0,15/01/2025
+CLI-5849,MARIA TORRES ,Hogar,"$5,854",2147.0,2025-02-20
+CLI-4709,MARIA TORRES ,Hogar,"$1,001",2440.0,
+CLI-7619,ANA GOMEZ,,"$2,666",3049.0,
+CLI-9647,pedro rodriguez ,Automóvil,"$1,709",657.0,2025/03/10
+CLI-4072,pedro rodriguez ,Salud,"$3,989",183.0,2025-01-15
+CLI-7530,luis soto,Vida,"$1,570",2352.0,2025/03/10
+CLI-1504,MARIA TORRES ,Hogar,"$3,514",2525.0,15/01/2025
+CLI-2214,pedro rodriguez ,Salud,"$2,428",4051.0,
+CLI-2531,CARMEN ORTIZ ,Hogar,"$4,221",722.0,2025-01-15
+CLI-8576,ANA GOMEZ,Salud,"$4,808",2846.0,15/01/2025
+CLI-1823,sofia castro,,"$3,266",1030.0,15/01/2025
+CLI-1928,CARMEN ORTIZ ,Hogar,"$2,798",1614.0,2025-01-15
+CLI-6029,CARMEN ORTIZ ,Automóvil,,1163.0,15/01/2025
+CLI-1133,sofia castro,Vida,"$4,944",3.0,2025-01-15
+CLI-3105,  jorge mendoza,,"$2,231",4287.0,2025-01-15
+CLI-4627,  jorge mendoza,Automóvil,"$2,619",,2025-02-20
+CLI-7316,ANA GOMEZ,Vida,"$1,930",893.0,2025/03/10
+CLI-2852,CARMEN ORTIZ ,Vida,"$3,458",407.0,15/01/2025
+CLI-5910,pedro rodriguez ,Salud,"$2,920",1340.0,15/01/2025
+CLI-5175,MARIA TORRES ,Automóvil,"$4,505",1637.0,2025-02-20
+CLI-6348,ANA GOMEZ,Salud,"$4,235",2749.0,2025-02-20
+CLI-7190,luis soto,,"$2,274",165.0,2025-02-20
+CLI-2256,sofia castro,Automóvil,"$4,043",4350.0,
+CLI-4376,CARMEN ORTIZ ,Automóvil,"$3,934",4125.0,
+CLI-6645,ANA GOMEZ,,"$2,841",,
+CLI-4486,  carlos perez ,Automóvil,"$1,941",1005.0,2025-01-15
+CLI-4584,  carlos perez ,Salud,"$4,800",2535.0,15/01/2025
+CLI-9053,  jorge mendoza,Hogar,"$4,161",1475.0,2025/03/10
+CLI-4330,sofia castro,Automóvil,"$3,780",914.0,2025-01-15
+CLI-3703,MARIA TORRES ,Salud,"$2,391",2305.0,15/01/2025
+CLI-9662,pedro rodriguez ,Hogar,"$3,406",,15/01/2025
+CLI-9120,MARIA TORRES ,Vida,"$4,073",4246.0,2025-02-20
+CLI-8114,MARIA TORRES ,Hogar,"$2,811",,2025-02-20
+CLI-2353,MARIA TORRES ,Vida,,2650.0,2025-01-15
+CLI-6063,sofia castro,Automóvil,"$4,346",,2025-02-20
+CLI-9549,MARIA TORRES ,Hogar,"$5,712",4394.0,15/01/2025
+CLI-8575,luis soto,,"$1,375",4403.0,2025-02-20
+CLI-1667,sofia castro,Automóvil,"$1,729",2650.0,
+CLI-5468,luis soto,Vida,"$2,263",,2025-02-20
+CLI-7819,sofia castro,Hogar,"$5,728",,15/01/2025
+CLI-4719,  jorge mendoza,Salud,"$2,700",3304.0,2025-01-15
+CLI-3745,ANA GOMEZ,Automóvil,"$2,199",3639.0,2025/03/10
+CLI-8483,  carlos perez ,,"$4,450",3226.0,2025-02-20
+CLI-1539,MARIA TORRES ,Hogar,"$1,978",4604.0,15/01/2025
+CLI-5964,  jorge mendoza,Automóvil,"$5,258",4234.0,2025/03/10
+CLI-5835,ANA GOMEZ,Automóvil,"$2,057",1396.0,2025/03/10
+CLI-4775,  carlos perez ,Automóvil,"$3,109",-182.0,
+CLI-7042,CARMEN ORTIZ ,Vida,"$1,710",372.0,2025/03/10
+CLI-8102,pedro rodriguez ,Hogar,"$4,809",2058.0,15/01/2025
+CLI-8312,luis soto,Salud,"$2,972",450.0,15/01/2025
+CLI-6320,CARMEN ORTIZ ,Hogar,$923,2387.0,2025-02-20
+CLI-7132,sofia castro,Automóvil,"$3,958",1138.0,2025-02-20
+CLI-8891,  carlos perez ,Vida,"$1,585",2627.0,2025-02-20
+CLI-3779,CARMEN ORTIZ ,Salud,"$3,216",2017.0,2025/03/10
+CLI-1924,pedro rodriguez ,Automóvil,"$4,954",837.0,2025/03/10
+CLI-2581,  jorge mendoza,Automóvil,"$2,736",,
+CLI-8714,  carlos perez ,Automóvil,"$2,101",2761.0,2025-02-20
+CLI-4324,CARMEN ORTIZ ,Salud,"$4,036",898.0,2025-01-15
+CLI-6713,luis soto,Vida,"$2,732",3516.0,
+CLI-8026,luis soto,Hogar,"$5,716",,2025-01-15
+CLI-1255,ANA GOMEZ,Salud,"$1,746",2704.0,2025/03/10
+CLI-5804,CARMEN ORTIZ ,Salud,"$2,177",2305.0,
+CLI-2838,MARIA TORRES ,Vida,"$5,657",4728.0,
+CLI-1009,CARMEN ORTIZ ,Salud,"$3,789",1478.0,15/01/2025
+CLI-3871,  jorge mendoza,Automóvil,"$2,356",4301.0,2025/03/10
+CLI-9989,  carlos perez ,Automóvil,"$1,158",3988.0,2025/03/10
+CLI-8409,  carlos perez ,Automóvil,"$4,256",3305.0,
+CLI-8418,  jorge mendoza,Automóvil,"$2,103",,2025/03/10
+CLI-6124,CARMEN ORTIZ ,Vida,"$5,804",174.0,
+CLI-6134,CARMEN ORTIZ ,Automóvil,"$4,513",26.0,2025-01-15
+CLI-8723,MARIA TORRES ,Vida,"$4,631",4151.0,15/01/2025
+CLI-6063,sofia castro,Automóvil,"$4,346",,2025-02-20
+CLI-3062,CARMEN ORTIZ ,Salud,"$2,100",811.0,15/01/2025
+CLI-3327,MARIA TORRES ,,"$2,308",3444.0,2025-02-20
+CLI-1980,CARMEN ORTIZ ,Hogar,"$1,026",4149.0,15/01/2025
+CLI-2685,luis soto,,"$5,203",1645.0,
+CLI-5171,  jorge mendoza,Hogar,"$2,493",,2025-01-15
+CLI-1064,CARMEN ORTIZ ,Hogar,"$4,776",4941.0,15/01/2025
+CLI-8027,ANA GOMEZ,Automóvil,"$5,060",3602.0,2025-02-20
+CLI-8989,  carlos perez ,Hogar,"$1,814",,15/01/2025
+CLI-8408,pedro rodriguez ,Vida,"$3,201",-39.0,2025/03/10
+CLI-1206,  carlos perez ,Hogar,"$3,846",1178.0,
+CLI-4324,CARMEN ORTIZ ,Salud,"$4,036",898.0,2025-01-15
+CLI-2664,luis soto,Automóvil,"$5,466",4557.0,15/01/2025
+CLI-6592,CARMEN ORTIZ ,Automóvil,"$2,996",864.0,
+CLI-2899,  carlos perez ,Hogar,"$1,288",,2025-02-20
+CLI-6534,  jorge mendoza,Salud,"$2,948",2017.0,2025-01-15
+CLI-8777,ANA GOMEZ,Hogar,"$2,564",2149.0,2025-01-15
+CLI-7736,  jorge mendoza,Automóvil,"$5,810",2141.0,2025-01-15
+CLI-6390,  carlos perez ,Hogar,"$4,628",1951.0,2025/03/10
+CLI-8714,  carlos perez ,Automóvil,"$2,101",2761.0,2025-02-20
+CLI-4072,pedro rodriguez ,Salud,"$3,989",183.0,2025-01-15
+CLI-9989,  carlos perez ,Automóvil,"$1,158",3988.0,2025/03/10
+CLI-2931,MARIA TORRES ,,"$3,957",4716.0,2025-02-20
